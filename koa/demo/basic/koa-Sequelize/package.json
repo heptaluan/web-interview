@@ -4,7 +4,7 @@
 	"description": "",
 	"main": "app.js",
 	"dependencies": {
-		"sequelize": "3.24.1",
+		"sequelize": "6.3.5",
 		"mysql": "2.11.1"
 	},
 	"devDependencies": {},
